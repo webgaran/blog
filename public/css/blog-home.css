@@ -1,0 +1,51 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+@font-face {
+  font-family: 'webgaran';
+  src: url('/fonts/IRANSans_fa.eot');
+  src: url('/fonts/IRANSans_fa.eot#iefix') format('embedded-opentype'),
+  url('/fonts/IRANSans_fa.woff') format('woff'),
+  url('/fonts/IRANSans_fa.ttf') format('truetype'),
+  url('/fonts/IRANSans_fa.woff2') format('woff2'),
+  url('/fonts/IRANSans_fa.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'webgaran';
+  src: url('/fonts/IRANSans_fa_Bold.eot');
+  src: url('/fonts/IRANSans_fa_Bold.eot#iefix') format('embedded-opentype'),
+  url('/fonts/IRANSans_fa_Bold.woff') format('woff'),
+  url('/fonts/IRANSans_fa_Bold.ttf') format('truetype'),
+  url('/fonts/IRANSans_fa_Bold.svg') format('svg'),
+  url('/fonts/IRANSans_fa_Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+body {
+  direction: rtl;
+  text-align: right;
+  font-family: webgaran;
+}
+h1,h2,h3,h4,a {
+  font-size: 22px;
+  color: #333;
+}
+a {
+  font-size: 16px;
+  color: #333;
+}
+a:hover {
+  text-decoration: none;
+}
+p {
+  font-size: 14px;
+  text-align: justify;
+  line-height: 35px;
+}
+ul {
+  padding: 0;
+}
